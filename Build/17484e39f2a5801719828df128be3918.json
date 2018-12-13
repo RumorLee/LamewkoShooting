@@ -1,0 +1,15 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Shooting",
+"productVersion": "0.1",
+"dataUrl": "8cfa91258749ab71eb4eb151dd95d345.unityweb",
+"wasmCodeUrl": "4ef4d87ef9f6837dee04830dc21fb3e3.unityweb",
+"wasmFrameworkUrl": "85e6669440e16052c9426acbb5b80df1.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"unityVersion": "2019.1.0a11"
+}
